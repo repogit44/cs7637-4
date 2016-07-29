@@ -1,1 +1,1 @@
-
+Design an agent that can answer 2x2 visual analogy problems based on both verbal and visual representations. You will have access to 24 sample problems to use in designing your agent: 12 Basic problems and 12 Challenge problems.
